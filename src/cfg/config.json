@@ -1,0 +1,6 @@
+{
+    "database": "/cfg/LtiDatabase.json",
+    "publicKey": "/cfg/jwtRS256.key.pub",
+    "privateKey": "/cfg/jwtRS256.key",
+    "redirectUrl": "https://ejd.songho.ca/ltitool/launch"
+}

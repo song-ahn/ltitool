@@ -1,0 +1,13 @@
+[
+    {
+        "issuer": "https://slatedev.sheridancollege.ca",
+        "clientId": "d8e46bf9-07f4-4463-8bd7-12bc062b6363",
+        "keysetUrl": "https://slatedev.sheridancollege.ca/d2l/.well-known/jwks",
+        "accessToken": "https://auth.brightspace.com/core/connect/token",
+        "authUrl": "https://slatedev.sheridancollege.ca/d2l/lti/authenticate",
+        "audience": "https://api.brightspace.com/auth/token",
+        "deployments": [
+            "78c6b8c5-f206-41f9-be68-aab165e26767"
+        ]
+    }
+]
