@@ -137,9 +137,12 @@ LTI References
 - [D2L LTI authentication](https://community.d2l.com/brightspace/kb/articles/23730-about-lti-1-3-launch-and-authentication)
 - [OAuth2 Illustration](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 - [wordpress-lti](https://github.com/3iPunt/wordpress-lti-1-3)
+- [Setup H5P + D2L](https://help.h5p.com/hc/en-us/articles/7506404914845-Setting-up-H5P-com-in-Brightspace-LTI-1-3)
+
 
 D2L Reference for settings
 --------------------------
 - https://help.h5p.com/hc/en-us/articles/7506404914845-Setting-up-H5P-com-in-Brightspace-LTI-1-3-
 - https://success.vitalsource.com/hc/en-us/articles/360051480074-D2L-Brightspace-LTI-1-3-Tool-Setup-and-Link-Placements
 - https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-d2l
+- https://community.d2l.com/brightspace/kb/articles/23660-lti-advantage-v1-3
